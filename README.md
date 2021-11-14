@@ -1,1 +1,3 @@
-THIS is Joshua's first git project!
+# git_test
+My first GitHub repo!
+Greetings Odin!
